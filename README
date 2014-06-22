@@ -1,3 +1,5 @@
+The first ruby application I ever wrote! 
+
 A wee app that pulls the weather info for a given city or town from Google.
 Currently slightly broken so steer clear of most English towns, anything with
 spaces in, and Belgium.
